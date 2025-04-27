@@ -1,5 +1,6 @@
 # CS255
-System Analysis and Design
+System Analysis and Design:
+
 This project showcases the design steps for DriverPass, an app for a local driving school designed to bring Driver's Ed into the 21st century. The app was intended to make scheduling appointments easier for students, provide them with up-to-date rules from the DMV for studying, allow access to lessons, and allow instructors to take notes on their progress, both online and offline. 
 
 I believe one thing I did particularly well on this project was pay attention to security features. Even though this might not seem like a security-intensive project, the app will likely need to allow students to pay for their lessons using it, and so security is important. To do this, I focused on implementing a password and email login system, with methods to defeat brute-force attacks, namely an automatic lockout after 3 attempts. In addition, I emphasized the importance of up-to-date infrastructure, particularly server hosting software. 
